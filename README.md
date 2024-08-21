@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliseFN
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python and PyTorch
 - 📫 How to reach me: lisyndiaye@gmail.com
 
 <!---
